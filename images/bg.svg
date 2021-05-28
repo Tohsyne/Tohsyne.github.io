@@ -1,0 +1,17 @@
+<svg width="1129" height="400" viewBox="0 0 1129 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1128" height="400" rx="25" fill="#5848BB"/>
+<path opacity="0.86" d="M1123.54 380.438C1123.81 382.576 1122.65 384.618 1120.73 385.596C1117.17 387.411 1112.89 384.788 1112.25 380.841C1110.91 372.554 1107.58 364.623 1102.3 358.139C1097.04 351.677 1089.72 346.524 1081.71 343.723C1077.71 342.321 1074.07 339.785 1072.15 336.004L1071.86 335.441C1067.44 326.763 1073.81 317.55 1082.51 321.919C1104.68 333.113 1120.38 355.905 1123.54 380.438Z" fill="#31C5A1"/>
+<g opacity="0.99" clip-path="url(#clip0)">
+<rect x="27.2993" y="221" width="100" height="100" transform="rotate(32 27.2993 221)" fill="#92E3A9"/>
+<rect x="27.2993" y="221" width="100" height="100" transform="rotate(32 27.2993 221)" fill="#92E3A9"/>
+</g>
+<circle cx="995.196" cy="162.196" r="6.8" transform="rotate(28 995.196 162.196)" fill="#FEC350"/>
+<circle cx="189.784" cy="304.783" r="10.6" transform="rotate(179 189.784 304.783)" fill="#F86431"/>
+<circle cx="204.023" cy="54.0231" r="6" transform="rotate(154 204.023 54.0231)" fill="#FEC350"/>
+<circle cx="1104.31" cy="307.308" r="9" transform="rotate(178 1104.31 307.308)" fill="#FEC350"/>
+<defs>
+<clipPath id="clip0">
+<rect width="10" height="10" fill="white" transform="translate(27.2993 221) rotate(32)"/>
+</clipPath>
+</defs>
+</svg>
